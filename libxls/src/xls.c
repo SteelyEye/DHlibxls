@@ -42,7 +42,7 @@
 #include <wchar.h>
 #include <assert.h>
 
-#include "libxls/xls.h"
+#include "xls.h"
 
 #define min(a,b) ((a) < (b) ? (a) : (b))
 

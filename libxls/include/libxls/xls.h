@@ -37,9 +37,9 @@ namespace xls {
 extern "C" {
 #endif
 
-#include "libxls/xlstypes.h"
-#include "libxls/xlsstruct.h"
-#include "libxls/xlstool.h"
+#include "xlstypes.h"
+#include "xlsstruct.h"
+#include "xlstool.h"
 
 
 #define BLANK_CELL		0x0201

@@ -48,10 +48,10 @@
 #include <string.h>
 
 //#include "xls.h"
-#include "libxls/xlstypes.h"
-#include "libxls/xlsstruct.h"
-#include "libxls/xlstool.h"
-#include "libxls/brdb.h"
+#include "xlstypes.h"
+#include "xlsstruct.h"
+#include "xlstool.h"
+#include "brdb.h"
 
 extern int xls_debug;
 

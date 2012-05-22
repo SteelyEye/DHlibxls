@@ -39,7 +39,7 @@ typedef struct str_brdb record_brdb;
 
 record_brdb brdb[] =
     {
-#include <libxls/brdb.c.h>
+#include <brdb.c.h>
     };
 
 static int get_brbdnum(int id)

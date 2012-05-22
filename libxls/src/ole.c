@@ -39,8 +39,8 @@
 
 #include <assert.h>
 
-#include "libxls/ole.h"
-#include "libxls/xlstool.h"
+#include "ole.h"
+#include "xlstool.h"
 
 extern int xls_debug;
 
